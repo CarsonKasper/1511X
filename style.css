@@ -42,3 +42,12 @@ hr {
     color: white;
     height: 5px;
 }
+
+a {
+    color: rgb(143, 118, 7);;
+}
+
+a:visited{
+    color: rgb(143, 118, 7);
+    ;
+}
