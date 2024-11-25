@@ -32,22 +32,44 @@ h3 {
     margin-top: 15px;
 }
 
-body {
+.nexus_body {
     background-color: rgb(34, 32, 32);
     font-family: Helvetica;
     color: rgb(143, 118, 7);
 }
 
-hr {
-    color: white;
+.nexus_hr {
+    border: none;
+    background-color: rgba(255, 255, 255, 0.747);
     height: 5px;
 }
 
-a {
-    color: rgb(143, 118, 7);;
+.nexus_a {
+    color: rgb(143, 118, 7);
 }
 
-a:visited{
+.nexus_a:visited{
     color: rgb(143, 118, 7);
-    ;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+.next_level_body {
+    background-color: rgb(187, 24, 46);
+    font-family: Helvetica;
+    color: white;
+}
+
+.next_level_hr {
+    border: none;
+    background-color: rgb(252, 252, 4);
+    height: 5px;
+}
+
+.next_level_a {
+    color: white;
+}
+
+.next_level_a:visited {
+    color: white;
 }
